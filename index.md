@@ -18,7 +18,7 @@
   }
 </style>
 <div style="height:80px;" background-color:#FFBB73;">
-<h2 class="titletext" =><u>wm55414的github頁面</u></h2>
+<h2 class="titletext"><u>wm55414的github頁面</u></h2>
 </div>
 <body style="background-color:#FFDDAA;">
 <p class="firsttext">&nbsp;</p>

@@ -6,6 +6,7 @@
     font-size : 30px;
   }
   .firsttext{
+    font-weight:bold;
     text-align:center;
     font-family: Microsoft JhengHei;
     font-size : 24px;
@@ -17,10 +18,11 @@
    font-size : 16px
   }
 </style>
-<div style="height:80px;" background-color:#FFBB73;">
+
+<body style="background-color:#FFDDAA;">
+<div style="height:80px;" background-color:#FFBB73;>
 <h2 class="titletext"><u>wm55414的github頁面</u></h2>
 </div>
-<body style="background-color:#FFDDAA;">
 <p class="firsttext">&nbsp;</p>
 <p class="firsttext">我是林威廷</p>
 <p class="firsttext">就讀輔仁大學統計資訊學系三年級</p>

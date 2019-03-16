@@ -1,5 +1,6 @@
 <style>
   .titletext{
+    font-weight:bold;
     text-align:center;
     font-family: Microsoft JhengHei;
     font-size : 30px;

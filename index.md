@@ -20,7 +20,7 @@
 </style>
 
 <body style="background-color:#FFDDAA;">
-<div style="height:80px;" background-color:#FFBB73;>
+<div style="height:80px; background-color:#FFBB73;">
 <h2 class="titletext"><u>wm55414的github頁面</u></h2>
 </div>
 <p class="firsttext">&nbsp;</p>

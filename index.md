@@ -1,10 +1,10 @@
 <style>
   .firsttext{
-    text-align:center
+    text-align:center;
   }
   .normaltext{
-   text-align:left
-   color: red
+   text-align:left;
+   color: red;
   
   }
 </style>

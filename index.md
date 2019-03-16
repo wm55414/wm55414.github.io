@@ -1,14 +1,22 @@
 <style>
+  .titletext{
+    text-align:center;
+    font-family: Microsoft JhengHei;
+    font-size : 30px;
+  }
   .firsttext{
     text-align:center;
+    font-family: Microsoft JhengHei;
+    font-size : 20px;
   }
   .normaltext{
    text-align:left;
-   color: red;
-  
+   color: #880000;
+   font-family: Microsoft JhengHei;
   }
 </style>
-<h2 class="firsttext"><u>wm55414的github頁面</u></h2>
+<h2 ><u>wm55414的github頁面</u></h2>
+<body style="background-color:#FFDDAA;">
 <p class="firsttext">&nbsp;</p>
 <p class="firsttext">我是林威廷</p>
 <p class="firsttext">就讀輔仁大學統計資訊學系三年級</p>
@@ -30,3 +38,4 @@
 <p class="normaltext">4.起點美食</p>
 <p class="normaltext">感謝你把這篇看到了最後，也恭喜你有看到最後，這間是我在輔大附近目前最喜歡的平價美食，，雖然跟上面幾間比起來遠了一點，但騎車不到3分鐘，應該算附近啦。這間店賣的都是咖哩飯配炸物，重點就在他的炸物，雞肉炸的酥酥脆脆，中間的肉卻還能多汁軟嫩，真的是我吃過最好吃的炸雞肉，還有他的杏包菇，又香又酥又軟，配上他的咖哩飯剛剛好~~~，如果吃不飽還可以免費加飯加咖哩，有機會一定要去吃一次</p>
 <p class="normaltext"><img src="https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/32130329_2012572872403675_1462645941512175616_n.jpg?_nc_cat=109&amp;_nc_ht=scontent.ftpe8-1.fna&amp;oh=7617a47c4bb4d05dd95f3b2a6e457556&amp;oe=5D16E45A" alt="起點美食" width="960" height="540" /></p>
+</body>

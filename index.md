@@ -1,9 +1,9 @@
 <style>
   .titletext{
     font-weight:bold;
-    text-align:center;
+    text-align:left;
     font-family: Microsoft JhengHei;
-    font-size : 30px;
+    font-size : 34px;
   }
   .firsttext{
     font-weight:bold;

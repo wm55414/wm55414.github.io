@@ -30,6 +30,8 @@
 <p class="firsttext">下面不知道要幹嘛就來介紹一下輔大周邊的平價美食好了</p>
 <p class="firsttext">&nbsp;</p>
 <p class="firsttext">(PS.下面的排序跟名次無關喔～)</p>
+<p class="firsttext">&nbsp;</p>
+<p class="firsttext">&nbsp;</p>
 <p class="normaltext">1.椒麻雞大王</p>
 <p class="normaltext">在輔大514側門出去的明日之星樓下，超好吃的椒麻雞腿飯，除了免費加白飯、飲料，還能夠喝到由滿滿的雞胸骨熬成的湯，本來明日之星的美食區一間比一間難吃，自從椒麻雞大王來了之後，整個風氣都改變拉~大推</p>
 <p class="normaltext"><img src="https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/17021882_10154348787198715_4829569533381696447_n.jpg?_nc_cat=106&amp;_nc_ht=scontent.ftpe8-3.fna&amp;oh=ac7f44c130b98da353c45063a10ce95f&amp;oe=5D0C533A" alt="椒麻雞大王" width="960" height="682" /></p>

@@ -1,7 +1,7 @@
 <style>
   .titletext{
     font-weight:bold;
-    text-align:left;
+    text-align:center;
     font-family: Microsoft JhengHei;
     font-size : 34px;
   }
@@ -10,6 +10,7 @@
     text-align:center;
     font-family: Microsoft JhengHei;
     font-size : 24px;
+    color:#0044BB;
   }
   .normaltext{
    text-align:left;
@@ -20,8 +21,8 @@
 </style>
 
 <body style="background-color:#FFDDAA;">
-<div style="height:80px; background-color:#FFBB73;">
-<h2 class="titletext"><u>wm55414的github頁面</u></h2>
+<div class="titletext" style="height:80px; background-color:#FFBB73;">
+<u>wm55414的github頁面</u>
 </div>
 <p class="firsttext">&nbsp;</p>
 <p class="firsttext">我是林威廷</p>

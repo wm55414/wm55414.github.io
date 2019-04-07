@@ -27,17 +27,52 @@
    font-size : 20px
   }
 </style>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-</script>
+<head>
+<head>
+<script type="text/javascript" src="jquery.js"></script>
+</head>
 
 <script>
   $(document).ready(function() {
-    $("#target1").addClass("animated fadeOut");
+    $("#target1").click(function(){
+$("#PepperChicken").slideDown("slow");
+$("#ChongqingNoddles").slideUp("slow");
+$("#Risotto").slideUp("slow");
+$("#StartFood").slideUp("slow");
+});
+
+  $("#target2").click(function(){
+$("#PepperChicken").slideUp("slow");
+$("#ChongqingNoddles").slideDown("slow");
+$("#Risotto").slideUp("slow");
+$("#StartFood").slideUp("slow");
+
+});
+
+  $("#target3").click(function(){
+$("#PepperChicken").slideUp("slow");
+$("#ChongqingNoddles").slideUp("slow");
+$("#Risotto").slideDown("slow");
+$("#StartFood").slideUp("slow");
+});
+
+  $("#target4").click(function(){
+$("#PepperChicken").slideUp("slow");
+$("#ChongqingNoddles").slideUp("slow");
+$("#Risotto").slideUp("slow");
+$("#StartFood").slideDown("slow");
+});
+
+  $("#target5").click(function(){
+$("#PepperChicken").slideDown("slow");
+$("#ChongqingNoddles").slideDown("slow");
+$("#Risotto").slideDown("slow");
+$("#StartFood").slideDown("slow");
+});
 
   });
 </script>
-
+</head>
 <body style="background-color:#FFDDAA;">
 <div class="titletext" style="height:80px; background-color:#FFBB73;">
 <u>wm55414的github頁面</u>

@@ -29,12 +29,12 @@
 </style>
 <head>
 <head>
-<script type="text/javascript" src="code.jquery.com/jquery-3.1.1.js"> </script>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script>
 </head>
 
 <script>
-  $(document).ready(function() {
+  $().ready(function() {
     $("#target1").click(function(){
 $("#PepperChicken").slideDown("slow");
 $("#ChongqingNoddles").slideUp("slow");

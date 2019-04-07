@@ -73,7 +73,6 @@ $("#StartFood").slideDown("slow");
 
   });
 </script>
-</head>
 <body style="background-color:#FFDDAA;">
 <div class="titletext" style="height:80px; background-color:#FFBB73;">
 <u>wm55414的github頁面</u>
